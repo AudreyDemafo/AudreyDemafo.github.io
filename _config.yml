@@ -7,15 +7,15 @@ description: >
   One or more sentences introducing this blog.
 
 # Your information
-email: your_email@example.com
-author: your_name
+email: audrey.demafo@aims.ac.rw
+author: Marcy Audrey Demafo Nangmo
 avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
 profile: One sentence introducing yourself.
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
-  Email: "mailto:your_email@example.com"
-  GitHub: "https://github.com/laobubu/jekyll-theme-EasyBook"
+  Email: "Mailto:audrey.demafo@aims.ac.rw"
+  GitHub: "https://github.com/AudreyDemafo.github.io"
   # You can add more profile links above, or edit _includes/sidebar.html 
 
 # Comment Service (Disqus or 多说)
