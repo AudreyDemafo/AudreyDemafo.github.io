@@ -29,4 +29,4 @@ However, if you have an interest in applied sciences, research, learning, or the
 
 Whether you are a student just beginning your academic journey, an early-career researcher trying to find your way, or simply someone curious about science and academia, I hope you will find something useful here.
 
-Welcome to my Academic Garden.
+Welcome to DEMAFO's Academic Garden.
