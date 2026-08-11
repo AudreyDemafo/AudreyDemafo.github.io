@@ -26,7 +26,7 @@ author:
   avatar           : "profile.jpeg"
   name             : "Demafo Audrey"
   pronouns         : "she/her"  
-  bio              : "I am a researcher passionate about continuous learning and knowledge sharing."
+  bio              : #"I am a researcher passionate about continuous learning and knowledge sharing."
   location         : # "Earth"
   employer         : "AIMS-Rwanda/University of Rwanda"
   uri              : # URL
