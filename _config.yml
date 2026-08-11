@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "Africa/East Africa"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Demafo Audrey"
+title                    : "Home Page"
 title_separator          : "-"
 name                     : &name "Demafo Audrey"
 description              : &description "Academic website of Demafo Audrey"   # Update this with a general description of your site, this is the default if not overridden by a page
