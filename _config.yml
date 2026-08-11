@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "github profile.jpeg"
+  avatar           : "images/github profile.jpeg"
   name             : "Demafo Audrey"
   pronouns         : "she/her"  
   bio              : "I am a researcher passionate about continuous learning and knowledge sharing."
