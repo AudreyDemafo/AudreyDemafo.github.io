@@ -1,18 +1,32 @@
 ---
 permalink: /
-title: "My Academic Garden"
+title: "Welcome to my Academic Garden"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-My "Academic Garden" is my personal public world where I share all relevant facts and information related to my journey into academia. Therein I share my research interests, my work and many more. Asides from the technical part of research, I also share tips to survive in academia based on the experience I have gathered so far and believe me, it is a lot :). There are so much information hidden behind the walls of office universities/research institutes that one does not know when one enters the academia world. Those hidden information (I also call it "academia code") are not taught anywhere. They are learnt on the field and most of time cause serious mental issues to the ones involved. Tips and personal experience are available in the Blog section. 
+My “Academic Garden” is my personal public space where I share relevant aspects of my journey into academia. Here, I share my research interests, my work, ideas I am exploring, and much more.
+
+Beyond the technical side of research, I also share practical tips and personal experiences about navigating academia. There is a great deal of information hidden behind the walls of universities and research institutes—things that are rarely taught when one enters the academic world. I like to think of these unwritten rules and lessons as the “academia code.”
+
+Much of this knowledge is learned through experience, sometimes through trial and error. Through this website, I hope to make some of that knowledge more accessible to others who are beginning or navigating their own academic journeys.
+
+You will find these experiences, reflections, and practical tips in the Blog section.
 
 About me ...
 ======
-I am an early-career scientific researcher. I am fond of applied research that includes practical applications. Specifically, I work at the intersection of applied mathematics and physics. I am a learning enthusiast and I value education more than anything else.  
+I am an early-career scientific researcher with a strong interest in applied research and practical applications. My work lies at the intersection of applied mathematics and physics, where I explore ways in which scientific knowledge and mathematical methods can be translated into practical solutions to real-world problems.
+
+I am also a passionate learner. I value education deeply and believe that learning does not end with a degree, a research project, or a position. There is always something new to understand, question, explore, and share. 
 
 Who is this page for ?
 ======
-There is no special requirement to visit this page (I can't even restrict anyone to not visit). However, if you have a sound interest in applied sciences and research, you are most welcome! Otherwise, there is no way visiting this page will be enjoyable and interesting ! So if you meet that small but most important requirement, welcome abroad!
+There is no special requirement to visit this website—I cannot exactly stop you from coming! 🙂
+
+However, if you have an interest in applied sciences, research, learning, or the realities of academic life, you are most welcome here.
+
+Whether you are a student just beginning your academic journey, an early-career researcher trying to find your way, or simply someone curious about science and academia, I hope you will find something useful here.
+
+Welcome to my Academic Garden.
