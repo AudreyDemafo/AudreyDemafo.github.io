@@ -23,7 +23,7 @@ I am also a passionate learner. I value education deeply and believe that learni
 
 Who is this page for ?
 ======
-There is no special requirement to visit this website—I cannot exactly stop you from coming! 🙂
+There is no special requirement to visit this website—I cannot exactly stop you from coming, even if I wanted to! 🙂
 
 However, if you have an interest in applied sciences, research, learning, or the realities of academic life, you are most welcome here.
 
