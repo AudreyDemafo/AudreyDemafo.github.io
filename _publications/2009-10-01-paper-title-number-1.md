@@ -2,13 +2,10 @@
 title: "Numerical Study for Efficient Cooling of Perishable Food Products During Storage: The Case of Tomatoes"
 collection: publications
 category: research article
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2025-07-25
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Audrey Demafo, Abebe Geletu, Pu Li. (2025). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/numerical-study-efficient-cooling-tomatoes
+excerpt: "A numerical study investigating cooling performance and airflow distribution during the storage of tomatoes."
+date   : 2025-07-17
+venue: 'Foods'
+paperurl: "https://doi.org/10.3390/foods14142508"
+citation: "Demafo, A., Geletu, A., & Li, P. (2025). Numerical Study for Efficient Cooling of Perishable Food Products During Storage: The Case of Tomatoes. <i>Foods</i>."
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
